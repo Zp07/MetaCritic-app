@@ -1,6 +1,6 @@
 # MetaCritic App
 
-![MetaCritic App Logo](ruta/al/logo.png)
+![MetaCritic App Logo](./components/Logo.jsx)
 
 ## Índice
 
